@@ -1,0 +1,5 @@
+is small modular nuclear actually economical in 2026?
+what breaks when you scale RAG past 10M docs?
+are AI coding agents net-positive for junior devs?
+which open-weight LLM is best for local function calling?
+is lab-grown meat stalled or scaling?
